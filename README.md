@@ -19,17 +19,17 @@ Technologies Used
 - Plotly
 - SciPy
 
-Dataset
+Dataset:
 IBM Telco Customer Churn Dataset (.csv)
 
-Run Project
+Run Project:
 ```bash
 streamlit run app.py
 ```
-Future Enhancements
+Future Enhancements:
 - Machine learning prediction
 - Real-time analytics
 - Cloud deployment
 
-Author
+Author:
 Developed during internship at QSpiders BTM, Bengaluru.
