@@ -1,6 +1,6 @@
 Title: Customer Churn Analytic Dashboard
 
-Overview of Project:
+Overview of Project
 
 Interactive dashboard developed using Python and Streamlit for analyzing customer churn using telecom datasets. The project helps identify churn patterns, customer behavior, and business insights through statistical analysis and visualization.
 
@@ -20,17 +20,21 @@ Technologies Used
 - Plotly
 - SciPy
 
-Dataset:
+Dataset
+
 IBM Telco Customer Churn Dataset (.csv)
 
-Run Project:
+Run Project
+
 ```bash
 streamlit run app.py
 ```
-Future Enhancements:
+Future Enhancements
+
 - Machine learning prediction
 - Real-time analytics
 - Cloud deployment
 
-Author:
+Author
+
 Developed during internship at QSpiders BTM, Bengaluru.
