@@ -1,6 +1,7 @@
 Title: Customer Churn Analytic Dashboard
 
-Overview of Project
+Overview of Project:
+
 Interactive dashboard developed using Python and Streamlit for analyzing customer churn using telecom datasets. The project helps identify churn patterns, customer behavior, and business insights through statistical analysis and visualization.
 
 Features
